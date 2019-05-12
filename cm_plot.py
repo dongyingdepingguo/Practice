@@ -20,7 +20,4 @@ def cm_plot(y, yp):
     plt.ylabel('True label')
     plt.xlabel('Predicted label')
     return plt
-<<<<<<< HEAD
 
-=======
->>>>>>> 9f5e4ab... 添加代码
